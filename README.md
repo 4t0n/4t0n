@@ -1,4 +1,4 @@
-### Привет! Меня зовут Вова
+### Привет! Меня зовут Вова.
 ### Контакты 
 
 [![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/VladimirShvab) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:shvab.vladimir@gmail.com)
