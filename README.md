@@ -25,7 +25,7 @@
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI/CD-3D3D3D?style=for-the-badge&logo=git&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
+![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
