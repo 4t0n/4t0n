@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-FF6F00?style=for-the-badge&logo=django&logoColor=white)
+![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-303030?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
