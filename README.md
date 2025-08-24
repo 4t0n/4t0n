@@ -1,12 +1,8 @@
-### Привет! Меня зовут Вова.
-### Контакты 
+### 👋 Hi, I'm Vladimir
 
-[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/VladimirShvab) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:shvab.vladimir@gmail.com)
-
-
-- Я Python разработчик
-- Имею опыт работы с Django, DRF, Fastapi
-- Работаю в аэрокосмической отрасли и параллельно осваиваю backend
+- Python Backend Developer with 3+ years of experience in building commercial projects.  
+- I specialize in designing REST APIs, integrating microservices, and automating business processes.  
+- Passionate about clean code, scalable architecture, and DevOps practices.
 
 ---
 
@@ -29,13 +25,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### &#129299; Моя статистика:
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=4t0n&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=4t0n&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=4t0n&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4t0n&layout=compact" />
-</a>
-</div>
